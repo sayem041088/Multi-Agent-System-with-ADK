@@ -1,6 +1,4 @@
 """
-Defines the agents for the first part of the lab (parent-subagent example).
-
 This module contains the initial definitions for:
 - 'attractions_planner': A sub-agent to list attractions for a country.
 - 'travel_brainstormer': A sub-agent to help a user decide on a country.
