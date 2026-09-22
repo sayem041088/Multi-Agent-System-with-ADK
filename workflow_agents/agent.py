@@ -1,5 +1,5 @@
 """
-Defines the agents for the second part of the lab (workflow agents example).
+
 
 This module builds a multi-agent system to generate a movie pitch.
 It includes initial definitions for:
