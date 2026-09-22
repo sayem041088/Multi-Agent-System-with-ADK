@@ -1,6 +1,4 @@
 """
-
-
 This module builds a multi-agent system to generate a movie pitch.
 It includes initial definitions for:
 - 'researcher': An agent that uses Wikipedia to find facts.
